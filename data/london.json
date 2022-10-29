@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection",
+  "metadata": {
+    "name": "London",
+    "creator": "Yandex Map Constructor"
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "id": 0,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [[51.49, -0.08],[51.5, -0.08],[51.5, -0.06],[51.49, -0.06]]
+        ]
+      },
+      "properties": {
+        "description": "rectangle",
+        "fill": "purple",
+        "fill-opacity": 0.6,
+        "stroke": "purple",
+        "stroke-width": "5",
+        "stroke-opacity": 0.9
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [51.505, -0.09]
+      },
+      "properties": {
+        "marker-color": "blue",
+        "radius": 200
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [51.505, -0.09]
+      },
+      "properties": {
+        "marker-color": "red",
+        "radius": 100,
+        "stroke": false
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 6,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [51.51, -0.08]
+      },
+      "properties": {
+        "marker-color": "green",
+        "fill": "green",
+        "radius": 100
+      }
+    }
+  ]
+}

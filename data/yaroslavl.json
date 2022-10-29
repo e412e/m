@@ -138,7 +138,8 @@
       "properties": {
         "description": "Отделение полиции; </br>\nпросп. Авиаторов, 147, Ярославль, Россия",
         "iconCaption": "Отдел Министерства внутренних дел России по Заволжскому городскому району",
-        "marker-color": "#1e98ff"
+        "marker-color": "#1e98ff",
+        "type": "police-department"
       }
     },
     {
@@ -154,7 +155,8 @@
       "properties": {
         "description": "Отделение полиции; </br>\nпросп. Ленина, 22, Ярославль, Россия",
         "iconCaption": "Отдел Министерства внутренних дел России по Ленинскому городскому району",
-        "marker-color": "#1e98ff"
+        "marker-color": "#1e98ff",
+        "type": "police-department"
       }
     },
     {
@@ -170,7 +172,8 @@
       "properties": {
         "description": "Отделение полиции; </br>\nКорабельная ул., 28, район Дядьково, Ярославль, Россия",
         "iconCaption": "Отдел министерства внутренних дел России по Фрунзенскому городскому району",
-        "marker-color": "#1e98ff"
+        "marker-color": "#1e98ff",
+        "type": "police-department"
       }
     },
     {
@@ -186,7 +189,8 @@
       "properties": {
         "description": "Отделение полиции; </br>\nул. Собинова, 53/42, Ярославль, Россия",
         "iconCaption": "Отдел Министерства внутренних дел Российской Федерации по Кировскому городскому району",
-        "marker-color": "#1e98ff"
+        "marker-color": "#1e98ff",
+        "type": "police-department"
       }
     },
     {
@@ -202,7 +206,8 @@
       "properties": {
         "description": "Отделение полиции; </br>\nул. Урицкого, 25Б, Ярославль, Россия",
         "iconCaption": "ОМВД России по Дзержинскому городскому району",
-        "marker-color": "#1e98ff"
+        "marker-color": "#1e98ff",
+        "type": "police-department"
       }
     },
     {
@@ -218,7 +223,8 @@
       "properties": {
         "description": "Отделение полиции; </br>\nБольшая Фёдоровская ул., 107А, Ярославль, Россия",
         "iconCaption": "Отдел полиции красноперекопский УМВД россии по г. Ярославлю",
-        "marker-color": "#1e98ff"
+        "marker-color": "#1e98ff",
+        "type": "police-department"
       }
     },
     {
@@ -234,7 +240,8 @@
       "properties": {
         "description": "Отделение полиции; </br>\nРеспубликанская ул., 23, Ярославль, Россия",
         "iconCaption": "Управление Министерства внутренних дел Российской Федерации по Ярославской области",
-        "marker-color": "#1e98ff"
+        "marker-color": "#1e98ff",
+        "type": "police-department"
       }
     }
   ]
